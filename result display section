@@ -1,0 +1,7 @@
+<div id="statusMessage" class="status"></div> 
+<div id="results"> 
+<h3>Processing Results</h3> 
+<div id="textPreview"></div> 
+<h4>Extracted Relationships:</h4> 
+<div id="relationshipList"></div> 
+</div> 
