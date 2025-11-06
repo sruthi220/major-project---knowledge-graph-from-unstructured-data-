@@ -1,11 +1,4 @@
-Frontend 
-It provides a simple user interface where users can input text or upload a file (PDF or text) to 
-extract relationships and build a knowledge graph using Neo4j. 
-1. Layout and Styling 
- The <style> section defines how the webpage looks. It uses basic CSS to make the page 
-clean, readable, and user-friendly. 
- Elements like buttons, text areas, and messages are styled with padding, colors, and 
-borders. 
+
 <style> 
 body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; } 
 .container { display: flex; flex-direction: column; gap: 20px; } 
